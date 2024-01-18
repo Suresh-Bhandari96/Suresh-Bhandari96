@@ -13,6 +13,6 @@ Welcome to my GitHub repository! This is where I share my interests and contribu
 ## 📬 Contact
 
 - LinkedIn: [Suresh Bhandari](https://www.linkedin.com/in/suresh-bhandari/)
-- Email: suresh.bhandari1296@gmail.com
+- Email: de.suresh@outlook.com
 
 Feel free to get in touch or explore my repositories. Thanks for visiting! 🙌
